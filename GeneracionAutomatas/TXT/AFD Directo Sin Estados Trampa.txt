@@ -1,0 +1,12 @@
+-------AFD DIRECTO---------
+Alfabeto: [a, b]
+Estado inicial: 0
+Estados de aceptacion: [1]
+Estados: [0, 1]
+Transiciones: [(0-a-1), (0-b-1)]-[]-
+Lenguaje R: null
+Cadena x ingresada: a
+Resultado Operacion: Aceptado
+
+Tiempo Creación: 114653.0 ns
+Tiempo Simulacion: 16818.0 ns

@@ -1,0 +1,12 @@
+-------AFD---------
+Alfabeto: [a, b]
+Estado inicial: 0
+Estados de aceptacion: [1, 2]
+Estados: [0, 1, 2, 3]
+Transiciones: [(0-a-1), (0-b-2)]-[(1-a-3), (1-b-3)]-[(2-a-3), (2-b-3)]-[(3-a-3), (3-b-3)]-
+Lenguaje R: null
+Cadena x ingresada: x
+Resultado Operacion: No Aceptado
+
+Tiempo Creación: 895014.0 ns
+Tiempo Simulacion: 26011.0 ns

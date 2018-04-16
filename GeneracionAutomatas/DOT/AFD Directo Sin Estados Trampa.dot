@@ -1,0 +1,12 @@
+digraph automata_finito {
+	rankdir=LR;
+	graph [label="AFD Directo Sin Estados Trampa", labelloc=t, fontsize=20]; 
+	node [shape=doublecircle, style = filled,color = mediumseagreen]; 1;
+	node [shape=circle];
+	node [color=midnightblue,fontcolor=white];
+	edge [color=red];
+	secret_node [style=invis];
+	secret_node -> 0 [label="inicio"];
+	0 -> 1 [label="a"];
+	0 -> 1 [label="b"];
+}

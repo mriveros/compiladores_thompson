@@ -1,0 +1,12 @@
+-------AFN---------
+Alfabeto: [a, b]
+Estado inicial: 0
+Estados de aceptacion: [5]
+Estados: [0, 1, 2, 3, 4, 5]
+Transiciones: [(0-ε-3), (0-ε-1)]-[(1-b-2)]-[(2-ε-5)]-[(3-a-4)]-[(4-ε-5)]-[]-
+Lenguaje R: b a
+Cadena x ingresada: x
+Resultado Operacion: No Aceptado
+
+Tiempo Creación: 67489.0 ns
+Tiempo Simulacion: 50220.0 ns

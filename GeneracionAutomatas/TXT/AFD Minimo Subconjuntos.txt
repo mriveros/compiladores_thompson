@@ -1,0 +1,12 @@
+-------AFD Minimizado: ---------
+Alfabeto: [a, b]
+Estado inicial: 0
+Estados de aceptacion: [1, 1]
+Estados: [0, 1]
+Transiciones: [(0-a-1), (0-b-1)]-[]-
+Lenguaje R: null
+Cadena x ingresada: a
+Resultado Operacion: No Aceptado
+
+Tiempo Creación: 114653.0 ns
+Tiempo Simulacion: 7829.0 ns
